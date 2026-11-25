@@ -11,4 +11,4 @@ python manage.py collectstatic --no-input
 
 python manage.py migrate
 
-  python manage.py createsuperuser --non--input | true
+  python manage.py createsuperuser --non-Sinput | true
